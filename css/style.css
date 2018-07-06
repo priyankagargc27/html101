@@ -6,7 +6,9 @@
 
 html {
     box-sizing: border-box;
-}body {
+
+}
+body {
     background-color: darkcyan;
 }
 
@@ -49,7 +51,8 @@ h1 {
     display: flex;
     display: -webkit-flex;
     width: 100%;
-    background-color: antiquewhite
+    background-color: antiquewhite;
+
 }
 main {
     flex: 2;
@@ -61,9 +64,9 @@ aside{
 }
 footer{
     background-color: black;
-    color: white;
+    color: azure;
     text-align: center;
 }
 footer a{
-    background-color:black;
+    color:goldenrod;
 }
